@@ -1,2 +1,10 @@
 
-/* Your CSS Code here. */
+table{
+	width:100%;
+	text-align:center;
+}
+thead{
+    background:black;
+	color:white;
+}
+
